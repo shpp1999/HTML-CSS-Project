@@ -2,11 +2,11 @@
 
 ### Home page expected design
 
-<img src="images/index-page.png" alt="webpage design"/>
+<img src="index-page.png" alt="webpage design"/>
 
 ### Contact me page expected design
 
-<img src="images/contactMe-page.png" alt="webpage design"/>
+<img src="contactMe-page.png" alt="webpage design"/>
 
 
 #### Requirements:
